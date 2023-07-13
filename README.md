@@ -11,4 +11,4 @@ Project Includes and Showcases:
 - Menus and HUD
 
 # Demonstration Video
-[<img src="https://i9.ytimg.com/vi/B2BPVGJOFvY/mqdefault.jpg?sqp=CKj5q6UG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEIgUChlMA8=&rs=AOn4CLCUQBuic_LlWHN5DXO0dTqIwGsxJQ" width="50%">](https://youtu.be/B2BPVGJOFvY)
+[<img src="https://img.youtube.com/vi/B2BPVGJOFvY/hqdefault.jpg" width="50%">](https://youtu.be/B2BPVGJOFvY)
